@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🕶️ Unity AR Visualizer (3D Product Viewer)
 
 > Customized by **Shadab Ali Khawaja**  
@@ -34,3 +35,6 @@ Originally designed for commercial product previews in retail, it was extended t
 
 ```bash
 git clone https://github.com/shadabalikhawajacs-lgtm/unity-ar-visualizer.git
+=======
+# unity-ar-visualizer
+>>>>>>> 74a0dfd35f3b7b937ab28eac0cbd81f792ac9bd1
